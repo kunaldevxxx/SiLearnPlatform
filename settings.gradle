@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "SLTS"
+//include ':openCVLibrary3413'
+include ':opencv'
